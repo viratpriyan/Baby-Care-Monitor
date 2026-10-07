@@ -1,0 +1,6 @@
+# Create the environment folder named .venv
+python -m venv .venv
+
+
+# Activate it (Mac/Linux)
+source .venv/bin/activate

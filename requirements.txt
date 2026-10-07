@@ -1,0 +1,7 @@
+flask
+requests
+numpy
+sounddevice
+tensorflow
+tensorflow_hub
+python-dotenv
